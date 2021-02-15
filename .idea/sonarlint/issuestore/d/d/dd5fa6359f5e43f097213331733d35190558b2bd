@@ -1,0 +1,6 @@
+
+r	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ΅³–ωÿÿÿÿ8§ψ‰ω.
+m	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ώ£ύκ8σ»Φ‰ω.
+†
+java:S1488:"dImmediately return this expression instead of assigning it to the temporary variable "gameResponse".(Πι•‰ϋÿÿÿÿ8κƒª‰ω.
+m	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Γ’Η–8ρΨ‰ω.
